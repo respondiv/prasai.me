@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Compass\n"
+"POT-Creation-Date: 2014-02-10 11:23-0500\n"
+"PO-Revision-Date: 2014-02-10 11:24-0500\n"
+"Last-Translator: \n"
+"Language-Team: Sonny T. <hi@sonnyt.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:15
+msgid "Sorry the page you were looking for cannot be found."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:164
+#: ../admin/plugin/required.php:36
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:165
+#: ../admin/plugin/required.php:37
+msgid "Install Plugins"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:166
+#: ../admin/plugin/required.php:38
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:178
+#: ../admin/plugin/class-tgm-plugin-activation.php:490
+#: ../admin/plugin/required.php:50
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:179
+#: ../admin/plugin/class-tgm-plugin-activation.php:1846
+#: ../admin/plugin/required.php:51
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:517
+#: ../admin/plugin/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1298
+#: ../admin/portfolio/portfolio.php:113
+msgid "Source"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1956
+#: ../admin/plugin/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1956
+#: ../admin/plugin/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../admin/plugin/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/plugin/required.php:39
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../admin/plugin/required.php:52
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:22 ../admin/portfolio/portfolio.php:23
+#: ../admin/portfolio/portfolio.php:33
+msgid "Portfolio"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:24
+msgid "Add New"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:25
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:26
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:27
+msgid "New Portfolio"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:28
+msgid "View Portfolio"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:29
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:30
+msgid "No portfolios found"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:31
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:32
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:102 ../admin/portfolio/portfolio.php:142
+#: ../admin/resume/options.php:86 ../admin/resume/options.php:124
+#: ../admin/resume/options.php:193 ../admin/resume/options.php:235
+msgid "Title"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:106 ../admin/portfolio/portfolio.php:146
+msgid "Thumbnail Image"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:123
+msgid "+ Add Item"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:126
+#, php-format
+msgid ""
+"You can either use this page directly or load it via shortcode on any "
+"desired external page as so, <code>[portfolio id=\"%s\"]</code></p>"
+msgstr ""
+
+#: ../admin/portfolio/portfolio.php:153
+msgid "Full Image"
+msgstr ""
+
+#: ../admin/resume/options.php:48
+msgid "The Compass Resume"
+msgstr ""
+
+#: ../admin/resume/options.php:66 ../admin/resume/options.php:165
+msgid "Section Title"
+msgstr ""
+
+#: ../admin/resume/options.php:70 ../admin/resume/options.php:169
+msgid "Section Title Icon"
+msgstr ""
+
+#: ../admin/resume/options.php:94 ../admin/resume/options.php:201
+msgid "From: "
+msgstr ""
+
+#: ../admin/resume/options.php:97 ../admin/resume/options.php:204
+msgid "To: "
+msgstr ""
+
+#: ../admin/resume/options.php:102 ../admin/resume/options.php:209
+msgid "Main Content"
+msgstr ""
+
+#: ../admin/resume/options.php:130 ../admin/resume/options.php:241
+msgid "Percentage"
+msgstr ""
+
+#: ../admin/resume/options.php:140 ../admin/resume/options.php:175
+msgid "+ Add Experience"
+msgstr ""
+
+#: ../admin/resume/options.php:141 ../admin/resume/options.php:176
+msgid "+ Add Scale"
+msgstr ""
+
+#: ../admin/resume/options.php:150
+msgid "+ Add Section"
+msgstr ""
+
+#: ../admin/settings/options.php:44
+msgid "The Compass Settings"
+msgstr ""
+
+#: ../admin/settings/options.php:51
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/settings/options.php:54
+msgid "Animation"
+msgstr ""
+
+#: ../admin/settings/options.php:64
+msgid "Main Image"
+msgstr ""
+
+#: ../admin/settings/options.php:68
+msgid ""
+"Please make sure that your image is at least 200px width and 200px height. "
+"Your avatar doesn't need to be circular, The Compass masks your image for "
+"you."
+msgstr ""
+
+#: ../admin/settings/options.php:73
+msgid "Schema Color Settings"
+msgstr ""
+
+#: ../admin/settings/options.php:76
+msgid "Colors Scheme"
+msgstr ""
+
+#: ../admin/settings/options.php:87
+msgid "Cool"
+msgstr ""
+
+#: ../admin/settings/options.php:91
+msgid "Dark"
+msgstr ""
+
+#: ../admin/settings/options.php:95
+msgid "Flat"
+msgstr ""
+
+#: ../admin/settings/options.php:99
+msgid "Custom"
+msgstr ""
+
+#: ../admin/settings/options.php:110
+msgid "Primary Color"
+msgstr ""
+
+#: ../admin/settings/options.php:114
+msgid "Secondary Color"
+msgstr ""
+
+#: ../admin/settings/options.php:118
+msgid "Trigger Font Color"
+msgstr ""
+
+#: ../admin/settings/options.php:122
+msgid "Accent Color"
+msgstr ""
+
+#: ../admin/settings/options.php:126
+msgid "Shadow Color"
+msgstr ""
+
+#: ../admin/settings/options.php:130
+msgid "Input Color"
+msgstr ""
+
+#: ../admin/settings/options.php:134
+msgid "Loader Image"
+msgstr ""
+
+#: ../admin/settings/options.php:138
+msgid ""
+"You can get one from <a href=\"http://www.ajaxload.info/\" target=\"_blank"
+"\">ajaxload.info</a>"
+msgstr ""
+
+#: ../admin/settings/options.php:142
+msgid "Body"
+msgstr ""
+
+#: ../admin/settings/options.php:145 ../admin/settings/options.php:156
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/settings/options.php:149 ../admin/settings/options.php:160
+msgid "Font Color"
+msgstr ""
+
+#: ../admin/settings/options.php:153
+msgid "Page"
+msgstr ""
+
+#: ../archive.php:15
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:18
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:18
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:21
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:24
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:21
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../comments.php:25
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../comments.php:48
+#, php-format
+msgid "One thought on \"%2$s\""
+msgstr ""
+
+#: ../comments.php:65 ../theme/partials/posts.php:50
+msgid "Older"
+msgstr ""
+
+#: ../comments.php:66 ../theme/partials/posts.php:51
+msgid "Newer"
+msgstr ""
+
+#: ../comments.php:75
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:77
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: ../comments.php:84
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:88
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:92
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:98
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:102
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:102
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:102
+msgid "Logout."
+msgstr ""
+
+#: ../comments.php:109
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:110
+msgid "Post Comment"
+msgstr ""
+
+#: ../single.php:48
+msgid "TAGS"
+msgstr ""
+
+#: ../single.php:56
+msgid "SHARE"
+msgstr ""
+
+#: ../theme/functions.php:288
+msgid "Read More"
+msgstr ""
+
+#: ../theme/menu.php:20
+msgid "Home"
+msgstr ""

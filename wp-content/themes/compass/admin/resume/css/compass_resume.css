@@ -1,0 +1,27 @@
+.compass_resume_items li {
+	padding: 0 10px;
+	background: #f5f5f5;
+	border: 1px solid #dedede;
+	margin-bottom: 10px;
+	position: relative;
+	
+	-webkit-box-shadow: 0px 1px 1px -1px rgba(0,0,0,0.1);
+	   -moz-box-shadow: 0px 1px 1px -1px rgba(0,0,0,0.1);
+			box-shadow: 0px 1px 1px -1px rgba(0,0,0,0.1);
+}
+
+.postbox {
+	position: relative;
+}
+
+.postbox .section_details {
+	position: absolute;
+	right: 10px;
+	top: 0px;
+}
+
+.postbox .experience_details {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}

@@ -1,0 +1,113 @@
+/**
+ * Dark Color Set
+ */
+body.dark-color {
+  background-color: #1a1e24;
+  color: #ccc;
+}
+body.dark-color .page_window .content .title a {
+  color: #ccc;
+}
+body.dark-color #swipebox-slider .slide,
+body.dark-color .loader {
+  background-image: url(loader.gif);
+  background-color: #1a1e24;
+}
+body.dark-color .description {
+  color: white;
+  background: #f64444;
+  background: rgba(246, 68, 68, 0.7);
+}
+body.dark-color .trigger-item a {
+  color: white;
+  background: #00bbe4;
+  border: 6px solid #00bbe4;
+}
+body.dark-color .trigger-item a:hover {
+  background: #f64444;
+  border-color: #f64444;
+}
+body.dark-color #swipebox-close,
+body.dark-color #swipebox-prev,
+body.dark-color #swipebox-next,
+body.dark-color .close-page,
+body.dark-color .page_window .content a:hover {
+  color: #f64444;
+}
+body.dark-color #swipebox-close:hover,
+body.dark-color #swipebox-prev:hover,
+body.dark-color #swipebox-next:hover,
+body.dark-color .close-page:hover,
+body.dark-color .page_window .content a {
+  color: #00bbe4;
+}
+body.dark-color .page_window {
+  background: #252733;
+}
+body.dark-color .format table tbody td,
+body.dark-color .format table tbody th,
+body.dark-color .format code,
+body.dark-color .format pre {
+  border-color: #ccc; 
+}
+body.dark-color .page_window .content h1.title:before,
+body.dark-color .page_window .content blockquote,
+body.dark-color .format table thead th,
+body.dark-color .format abbr,
+body.dark-color .format acronym {
+  border-color: #00bbe4;
+}
+body.dark-color .page_window .content input,
+body.dark-color .page_window .content textarea {
+  border: 1px solid #ccc;
+}
+body.dark-color .page_window .content input:focus,
+body.dark-color .page_window .content textarea:focus {
+  border: 1px solid #00bbe4;
+}
+body.dark-color .page_window .content input.wpcf7-not-valid,
+body.dark-color .page_window .content textarea.wpcf7-not-valid {
+  border: 1px solid #f64444;
+}
+body.dark-color .page_window .content .error_message {
+  background: #f64444;
+  background: rgba(246, 68, 68, 0.6);
+  border: 1px solid #f64444;
+}
+body.dark-color .page_window .content .btn,
+body.dark-color .page_window .content button,
+body.dark-color .page_window .content input[type="submit"] {
+  background: #f64444;
+  color: white;
+  cursor: pointer;
+  border: 0;
+}
+body.dark-color .page_window .content .btn:hover,
+body.dark-color .page_window .content button:hover,
+body.dark-color .page_window .content input[type="submit"]:hover {
+  background: #00bbe4;
+}
+body.dark-color #swipebox-overlay {
+  background: #1a1e24;
+}
+body.dark-color #swipebox-action,
+body.dark-color #swipebox-caption {
+  background: #252733;
+}
+body.dark-color .resume h2,
+body.dark-color .page_window .content .required {
+  color: #00bbe4;
+}
+body.dark-color .resume .progress,
+body.dark-color .page_window .content .tags a {
+  color: #ccc;
+  background: #16191e;
+}
+body.dark-color .resume .progress span {
+  background: #f64444;
+}
+body.dark-color .resume .detail span,
+body.dark-color .page_window .content .details,
+body.dark-color .page_window .content .details a {
+  color: #999;
+}
